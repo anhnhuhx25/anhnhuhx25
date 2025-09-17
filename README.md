@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 So, what brought you to my page?
 ---
 ## About me
-🌱 I am currently a sophomore at Washington and Lee University, majoring in Business Administration and Computer Science
 
+🌱 I am currently a sophomore at Washington and Lee University, majoring in Business Administration and Computer Science
 📧 You can contact me through my email: hnhu@mail.wlu.edu
+
 ---
 ## Projects
+
 My brainchild: https://www.producthunt.com/products/eatelligence
