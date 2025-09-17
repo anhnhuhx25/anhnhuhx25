@@ -1,12 +1,11 @@
 ## Hi there, I'm Anh! 👋
 
 <!--
-🌱 I am currently a sophomore at Washington and Lee University, majoring in Business Administration and Computer Science
-📧 You can contact me through my email: hnhu@mail.wlu.edu
 **anhnhuhx25/anhnhuhx25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+🌱 I am currently a sophomore at Washington and Lee University, majoring in Business Administration and Computer Science
+📧 You can contact me through my email: hnhu@mail.wlu.edu
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
